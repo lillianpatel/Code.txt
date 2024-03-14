@@ -1,3 +1,6 @@
+2FgEDZ8lr6Dhxx4VKRSVbNriXh6_7BT4WqczUPSAdfzHL3T8x
+NGROK_AUTH_TOKEN
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 name: CI
 
 on: [push, workflow_dispatch]
